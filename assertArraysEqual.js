@@ -15,4 +15,4 @@ const assertArraysEqual = function(array1, array2) {
     console.log('Assertion failed: %s is not equal to %s', array1, array2);
   }
 }
-
+module.exports = assertArraysEqual;
