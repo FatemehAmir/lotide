@@ -1,0 +1,9 @@
+
+
+const assertArraysEqual = require('../assertArraysEqual');
+const eqArrays = require('../eqArrays');
+const eqArraysTest = function(array1, array2) {
+
+}
+eqArraysTest();
+module.exports = eqArraysTest;
